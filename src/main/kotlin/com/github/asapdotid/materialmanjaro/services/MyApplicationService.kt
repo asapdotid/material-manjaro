@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.asapdotid.materialmanjaro.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.asapdotid.materialmanjaro.MyBundle
 
 class MyApplicationService {
 
